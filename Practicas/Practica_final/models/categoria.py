@@ -1,4 +1,4 @@
-import random as r
+'''import random as r
 
 class Categoria:
 
@@ -41,3 +41,4 @@ class Categoria:
     
     def existePalabra(self, pl):
         return (str(pl).lower() in self.lsAdivina or str(pl).upper() in self.lsAdivina)
+    '''

@@ -1,4 +1,4 @@
-class Jugador:
+'''class Jugador:
     def __init__(self):
         self.nivel = 0
         self.vidas = 5
@@ -24,3 +24,4 @@ class Jugador:
 
     def getTablero(self):
         return f"|  Jugador: {self.nombre}   |   Vidas: {self.vidas}   |   Nivel: {self.nivel}   |"
+'''
